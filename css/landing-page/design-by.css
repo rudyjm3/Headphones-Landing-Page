@@ -1,0 +1,31 @@
+#design-by {
+  position: relative;
+  top: -100px;
+}
+#design-by .design-container{
+  /*position: absolute;*/
+}
+#design-by .design-container .info-section {
+  background: #6066f2;
+  width: 40%;
+  display: inline-block;
+  float: left;
+  padding: 40px;
+}
+#design-by .design-container .info-section h5 {
+  color: #fea83b;
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  margin-bottom: 45px;
+}
+#design-by .design-container .info-section h3 {
+  color: white;
+  font-size: 2.5rem;
+  margin-bottom: 25px;
+}
+#design-by .design-container .icons-section {
+  background: white;
+  width: 60%;
+  display: inline-block;
+  float: left;
+}
